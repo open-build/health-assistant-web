@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/Buildly-Marketplace/ForgeWeb.git",
+  "revision": "8d77d7aaf757cba585cbb47d0b3423bee8619fa8",
+  "websiteDirectory": "website",
+  "site": {
+    "name": "Health Assistant",
+    "description": "A local-first health companion. Prepare for appointments, remember conversations, and choose where your AI runs.",
+    "url": ""
+  },
+  "branding": {
+    "primaryColor": "#284d3e",
+    "secondaryColor": "#6d7f4f",
+    "accentColor": "#c4d29b",
+    "darkColor": "#243c32",
+    "lightColor": "#f7f7ef"
+  }
+}

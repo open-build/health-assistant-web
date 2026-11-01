@@ -1,0 +1,15 @@
+# Independent upstream checkout; re-created by scripts/setup.sh.
+ForgeWeb/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.db
+*.db-*
+*.log
+.DS_Store
+content/drafts/
+website/_preview/
+artifacts/
