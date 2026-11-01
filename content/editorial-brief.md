@@ -66,3 +66,12 @@ Sources: Core/FoodFacts/LookupClients.swift, FoodFactsAI.swift, FoodFactsService
 docs/DECISIONS.md and docs/TODO.md. Live-service and clinical validation remain
 pending. Broader analysis is roadmap work. Analytics means health/evidence analysis,
 not new website telemetry. Keep those distinctions in all generated copy.
+
+## Open Build support
+
+The project owner confirms Health Assistant is supported by Open Build through
+developer help, research, data, and other contributions. Describe community and
+project support, not clinical endorsement, funding amounts, or access to patient
+data. Link https://www.open.build/ for the foundation and its project ecosystem.
+Use https://www.calendly.com/buildly-greg for project/contributor conversations,
+not medical consultations. Do not invent a count of supported projects.
